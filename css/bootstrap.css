@@ -88,6 +88,7 @@ h3,
 h4,
 h5,
 h6 {
+    color: blueviolet;
     margin-top: 0;
     margin-bottom: 0.5rem;
 }
